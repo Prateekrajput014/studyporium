@@ -1,2 +1,2 @@
-# studyporium
+# study-porium
 Study porium
