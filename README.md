@@ -1,2 +1,2 @@
 # studyporium
-Stdy uporium
+Study porium
